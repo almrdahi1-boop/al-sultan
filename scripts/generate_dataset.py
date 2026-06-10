@@ -32,7 +32,7 @@ for i, topic in enumerate(TOPICS, 1):
     
     result = subprocess.run(
         ["ollama", "run", "al-sultan-v0.2", prompt],
-        capture_output=True, text=True, timeout=60
+        capture_output=True, text=True, timeout=300
     )
     
     # Extract answer (skip thinking)
