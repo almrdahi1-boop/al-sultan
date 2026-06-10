@@ -1,0 +1,102 @@
+{
+  "project": "Al-Sultan",
+  "version": "0.1.0",
+  "status": "foundation",
+  "anomalies": [
+    {
+      "id": 1,
+      "name": "Dark Matter",
+      "description": "27% of the universe's mass-energy. We cannot see it. We cannot detect it directly. We only infer it from gravitational effects.",
+      "physics_explanation": "Unknown form of matter that doesn't interact with electromagnetic radiation.",
+      "problem": "We have named it but we don't know what it is. This is 27% of everything. Our physics explains 5%.",
+      "quranic_perspective": "العلم = قليل. لا تستغرب أن ٢٧٪ من الكون مجهول لك.",
+      "alternative_hypothesis": "العالم الموازي (عالم الجن) — كتلة من بُعد آخر تؤثر في بُعدنا جاذبياً."
+    },
+    {
+      "id": 2,
+      "name": "Dark Energy",
+      "description": "68% of the universe. Causing the expansion of the universe to accelerate.",
+      "physics_explanation": "Unknown form of energy. Possibly vacuum energy. 10^120 times weaker than predicted.",
+      "problem": "The biggest component of the universe is completely unexplained. Our equations are off by 120 orders of magnitude.",
+      "quranic_perspective": "﴿وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ﴾ — الذاريات: ٤٧. تمدد الكون مذكور.",
+      "alternative_hypothesis": "الكون يُخلق باستمرار. التمدد = خلق جديد."
+    },
+    {
+      "id": 3,
+      "name": "Quantum Entanglement",
+      "description": "Two particles separated by any distance instantly affect each other.",
+      "physics_explanation": "Non-local correlation. 'Spooky action at a distance' — Einstein.",
+      "problem": "Information appears to travel faster than light. This breaks special relativity.",
+      "quranic_perspective": "﴿قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ﴾ — النقل الآني للعرش. الآنية ليست 'مستحيلة' فيزيائياً.",
+      "alternative_hypothesis": "الزمكان ليس أساسياً. الجسيمات المتشابكة متصلة في بُعد أعلى."
+    },
+    {
+      "id": 4,
+      "name": "UAP (Unidentified Aerial Phenomena)",
+      "description": "Objects exhibiting flight characteristics impossible with known technology.",
+      "physics_explanation": "Pentagon admits they're real (2017-2024). No known propulsion. No visible control surfaces.",
+      "problem": "They move at hypersonic speeds, change direction instantly, no sonic boom, no wings, no engines.",
+      "quranic_perspective": "الجن يروننا ولا نراهم. لهم قدرات حركية خارقة. ﴿إِنَّهُۥ يَرَىٰكُمْ هُوَ وَقَبِيلُهُۥ مِنْ حَيْثُ لَا تَرَوْنَهُمْ﴾",
+      "alternative_hypothesis": "ليست 'فضائيين'. إنها جن. كائنات من بُعد آخر. تتحرك بقوانين فيزيائية مختلفة."
+    },
+    {
+      "id": 5,
+      "name": "Vacuum Catastrophe",
+      "description": "Predicted vacuum energy density vs. observed: difference of 10^120.",
+      "physics_explanation": "Quantum field theory predicts a vacuum energy 10^120 times larger than what we observe.",
+      "problem": "The 'worst theoretical prediction in the history of physics'. Our equations are fundamentally wrong.",
+      "quranic_perspective": "﴿وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا﴾. خطأ بـ ١٢٠ قوة أسية = دليل أننا لا نفهم شيئاً.",
+      "alternative_hypothesis": "الفراغ ليس فارغاً بالمعنى الفيزيائي. الفراغ = طبقة بين العوالم."
+    }
+  ],
+  "broken_laws": [
+    {
+      "law": "Atoms are indivisible",
+      "broken_by": "Electron discovery (1897), Nuclear fission (1932)",
+      "year_broken": 1897,
+      "lesson": "The fundamental building block was not fundamental."
+    },
+    {
+      "law": "Conservation of Mass",
+      "broken_by": "E=mc² (1905)",
+      "year_broken": 1905,
+      "lesson": "Mass is not conserved. It converts to energy."
+    },
+    {
+      "law": "Absolute Space and Time",
+      "broken_by": "Special Relativity (1905), General Relativity (1915)",
+      "year_broken": 1905,
+      "lesson": "Time dilates. Space curves. Newton was wrong about the most 'obvious' truth."
+    },
+    {
+      "law": "Parity Conservation",
+      "broken_by": "Weak nuclear force violates parity (1956)",
+      "year_broken": 1956,
+      "lesson": "The universe has a 'handedness'. Nature is not ambidextrous."
+    },
+    {
+      "law": "Nothing escapes a black hole",
+      "broken_by": "Hawking Radiation (1974)",
+      "year_broken": 1974,
+      "lesson": "Even black holes evaporate. Nothing is eternal."
+    },
+    {
+      "law": "Universe is eternal and static",
+      "broken_by": "Hubble (1929), Cosmic Microwave Background (1964)",
+      "year_broken": 1929,
+      "lesson": "The universe had a beginning. Einstein called his static universe idea his 'biggest blunder'."
+    },
+    {
+      "law": "Universe expansion is slowing down",
+      "broken_by": "Dark Energy discovery (1998)",
+      "year_broken": 1998,
+      "lesson": "Expansion is accelerating. We don't know why."
+    },
+    {
+      "law": "Determinism (Laplace's demon)",
+      "broken_by": "Quantum Mechanics — Heisenberg Uncertainty (1927)",
+      "year_broken": 1927,
+      "lesson": "The future is not determined. Probability rules reality."
+    }
+  ]
+}
